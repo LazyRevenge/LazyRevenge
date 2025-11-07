@@ -1,4 +1,5 @@
-![Banner](https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/awesome/assets/banner-dark.gif?raw=true)
+![Banner](https://github.com/abhisheknaiidu/awesome-github-profile-readme/raw/main/awesome/assets/banner-dark.gif)
+
 <h1 align="center">👋 Hello! I'm LazyRevenge!</h1>
 
 ---
@@ -11,7 +12,7 @@
 
 ## 🧠 Interests
 - Discrete math & logic  
-- Clean, modular code design (especially in Java)  
+- Clean, modular code design (especially in Java)
 - CLI tools, Telegram bots, and in-memory systems  
 - Bridging theory and practice through code
 
@@ -27,4 +28,4 @@
 
 ---
 
-📫 Find me on Telegram: **[@oxukuqu](https://t.me/oxukuqu)**  
+📫 Find me on Telegram: **[@oxukuqu](https://t.me/oxukuqu)**

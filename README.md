@@ -1,3 +1,4 @@
+![Banner](https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/awesome/assets/banner-dark.gif?raw=true)
 <h1 align="center">👋 Hello! I'm LazyRevenge!</h1>
 
 ---

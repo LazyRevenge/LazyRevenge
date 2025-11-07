@@ -27,5 +27,5 @@
 
 ---
 
-📫 Find me on Telegram: **[@your_telegram](https://t.me/your_telegram)**  
+📫 Find me on Telegram: **[@oxukuqu](https://t.me/your_telegram)**  
 🌱 Always learning — open to ideas, feedback, and collaboration!

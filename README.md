@@ -22,8 +22,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=LazyRevenge&show_icons=true&theme=radical&locale=en)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LazyRevenge&theme=radical&locale=en&hide=html,css)
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LazyRevenge&theme=radical)](https://github.com/LazyRevenge)
 
 ---
 

@@ -27,4 +27,3 @@
 ---
 
 📫 Find me on Telegram: **[@oxukuqu](https://t.me/oxukuqu)**  
-🌱 Always learning — open to ideas, feedback, and collaboration!
